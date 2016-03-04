@@ -1,0 +1,28 @@
+name: GeniCan
+favicon: null
+layout_spectrum: 0.34504723944701254
+typography_spectrum: 0.16027052677236497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5831423480994999
+  lightness: 0.5770290847867727
+  saturation: 0.16540010669268668
+  rhythmicContrast: 0.33262800821103156
+purpose: []
