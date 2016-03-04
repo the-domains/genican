@@ -1,28 +1,40 @@
-name: GeniCan
 favicon: null
-layout_spectrum: 0.34504723944701254
-typography_spectrum: 0.16027052677236497
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: GeniCan
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1654001066926867
+  brandStrength: 0.5831423480994999
+  rhythmicContrast: 0.3326280082110316
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.5831423480994999
   lightness: 0.5770290847867727
-  saturation: 0.16540010669268668
-  rhythmicContrast: 0.33262800821103156
-purpose: []
+typography_spectrum: 0.3960573
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3450472394470125
+analytics:
+  twitter: null
+  google: null
+  facebook: null
