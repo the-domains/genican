@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GeniCan]]></title>
+        <description><![CDATA[GeniCan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 18:24:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The GeniCan Story - Part 1]]></title>
+            <description><![CDATA[<article><h1>The GeniCan Story - Part 1</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f401d2c128d215fa0e8e5b958e4f4d381d37203c.jpg"></article>]]></description>
+            <link>undefinedthe-genican-story-part-1/index.html</link>
+            <guid isPermaLink="false">ffc8da41-d56f-4a00-ae05-83c3979aa4d5</guid>
+            <pubDate>Fri, 04 Mar 2016 18:24:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
